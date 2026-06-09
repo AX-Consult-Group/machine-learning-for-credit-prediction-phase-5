@@ -60,6 +60,7 @@ The analysis was conducted in R using the following packages:
 - ggplot2
 - patchwork
 - pROC
-- psych
+- glmnet
+- caret
 
 ---
