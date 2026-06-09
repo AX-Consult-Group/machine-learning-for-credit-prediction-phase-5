@@ -49,7 +49,7 @@ To protect intellectual property, the names of the DRA variables have been gener
 
 The full rendered report is available via **GitHub Pages**: 
 
-xxx
+https://ax-consult-group.github.io/machine-learning-for-credit-prediction-phase-5/ 
 
 ---
 
