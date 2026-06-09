@@ -1,6 +1,8 @@
 # Machine Learning for Credit Prediction: Phase 5
 ## Beyond the Gini: Measuring the Commercial Impact of V2 Scoring
 
+![Infographic: Design Overview](infographic.png)
+
 ---
 
 ### Background and Aim 
